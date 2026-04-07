@@ -1,5 +1,5 @@
 {
-  "name": "ai-toxic-check",
+  "name": "@lxgicstudios/ai-toxic-check",
   "version": "1.0.0",
   "description": "AI-powered toxicity checker - detect harmful content with GPT moderation",
   "main": "dist/index.js",
