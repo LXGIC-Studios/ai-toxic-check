@@ -8,14 +8,14 @@
     "ai-toxic-check": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-toxic-check/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "AI-powered toxicity checker - detect harmful content with GPT moderation",
+  "description": "Detect exclusionary or problematic language in your codebase using AI. Scan for non-inclusive terms in code, comments, and docs. Build better open source.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -31,15 +31,34 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-toxic-check",
+  "homepage": "https://github.com/LXGIC-Studios/ai-toxic-check",
   "keywords": [
+    "inclusivity",
+    "code-review",
+    "language-check",
+    "deib",
+    "ethics",
+    "open-source",
+    "\"ai\"",
+    "\"automation\"",
+    "\"cli\"",
+    "\"developer-tools\"",
+    "\"npx\"",
+    "\"typescript\"",
+    "\"nodejs\"",
+    "\"openai\"",
+    "\"anthropic\"",
+    "\"claude\"",
+    "\"cursor\"",
+    "\"gpt\"",
+    "\"copilot\"",
+    "\"devtools\"",
+    "\"vibe-coding\"",
     "content-moderation",
     "toxicity",
     "sentiment",
     "nlp",
-    "safety",
-    "june-2026-core-update",
-    "technical-seo"
+    "safety"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-toxic-check"
+    "url": "git+https://github.com/LXGIC-Studios/ai-toxic-check.git"
   },
   "scripts": {
     "build": "tsc"
