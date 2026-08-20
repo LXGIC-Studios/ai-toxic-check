@@ -47,10 +47,7 @@
     "devtools",
     "ethics",
     "gpt",
-    "inclusivity",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "inclusivity"
   ],
   "license": "MIT",
   "main": "dist/index.js",
